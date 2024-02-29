@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="440px" hight="500px" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifullah-yousuf&label=Profile%20views&color=0e75b6&style=flat" alt="saifullah-yousuf" /> </p>
 
-- 🌱 I’m currently learning **Front-end-Development**
+- 🌱 I’m currently learning **Back-end-Development**
 
 - 💬 Ask me about **Html, CSS, JavaScript, Bootstrap and Firebase**
 
